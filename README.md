@@ -1,4 +1,4 @@
-### Hi there 👋
+Software Engineer with +4 years of experience designing, and implementing software with Python for Backend, and Cloud Technologies participating in international English-spoken organizations.
 
 <!--
 **aHardReset/aHardReset** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
